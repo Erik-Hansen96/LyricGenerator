@@ -72,6 +72,6 @@ http://bridges-cs.herokuapp.com/assignments/11/hansen_0796530
 ```
 Entire cluster of lyrics
 ![image](https://i.imgur.com/M3aF222.png)
-Closer look at a lyric displaying how many time it appears in the inputted file and its total edge weight. It points to every word that follows it, which in this case is only one. The arrows vary in thickness depending on their edge weight.
+Closer look at a lyric displaying how many times it appears in the inputted file and its total edge weight. It points to every word that follows it, which in this case is only one. The arrows vary in thickness depending on their edge weight.
 ![image](https://i.imgur.com/UKBk955.png)
 
