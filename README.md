@@ -59,3 +59,16 @@ Mr h will return, yes, you how the light, that you, say i was haven't sent.
 I've got to day to do.
 That's new.
 ```
+Option 3 (Visualize on Bridges):
+```bash
+1. Print Graph and Quit
+2. Generate Random Lyrics
+3. View on BRIDGES
+3
+Success: Assignment posted to the server. 
+Check out your visualization at:
+
+http://bridges-cs.herokuapp.com/assignments/11/hansen_0796530
+```
+#Entire cluster of Images
+![image](https://imgur.com/a/yNHGvAv)
