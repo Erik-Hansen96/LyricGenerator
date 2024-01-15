@@ -71,4 +71,5 @@ Check out your visualization at:
 http://bridges-cs.herokuapp.com/assignments/11/hansen_0796530
 ```
 #Entire cluster of Images
-![image](https://imgur.com/a/yNHGvAv)
+![image](https://i.imgur.com/M3aF222.png)
+
