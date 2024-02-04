@@ -43,7 +43,7 @@ Option 2:
 ```bash
 How many sentences do you wish to make?
 10
-How many sentences do you wish to make?
+Please enter the random seed:
 12345678
 ```
 Output:
